@@ -16,7 +16,7 @@ const Projects = ({
     allMarkdownRemark: { nodes },
   },
 }) => {
-  console.log(nodes);
+  console.log('from projects',nodes);
   return (
     <Layout menuLinks={blogMenuLinks}>
       <SEO title="Projects" />
