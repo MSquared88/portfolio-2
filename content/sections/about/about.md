@@ -1,11 +1,9 @@
 ---
-title: 'The Gatsby starter that makes developer dreams come true!'
-about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+title: 'Story'
+about_image: './altumcode.jpg'
+techs: ['Gatsby', 'Javascript', 'React', 'Node', 'Express','PostgreSQL']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
+After 6 and a half years of working at a oil and gas field automation company I was made the head QA/QC engineer. After six months I felt that I had gone as far as I would go in that company and was not ready to stop learning and progressing in my career. 
 
-Phasellus ut sagittis eros. Curabitur quis libero consequat, iaculis dolor sollicitudin, ultricies ligula. Donec sodales sed ex a fermentum. Quisque vitae efficitur odio, non aliquam sapien.
-
-Proin egestas luctus ornare. Donec maximus est lobortis, pharetra dolor in, convallis lorem. Duis ut erat in lectus faucibus iaculis. In tincidunt laoreet ante, vel pellentesque risus lacinia eu.
+I have always had an interest in the technology field and knew that was the direction I wanted to go. I found out about Lambda School and the opportunity that they offered. I am excited to continue to learn and realize my goal of becoming a successful Web Developer.

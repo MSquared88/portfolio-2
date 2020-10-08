@@ -30,6 +30,7 @@ const StyledSocialIcons = styled.div`
 
 const SocialIcons = ({ icons }) => {
   const socialIcons = icons.map(({ link, name, prefix }) => {
+    console.log(link,name,prefix)
     return (
       <a href={link} key={link} target="_blank" rel="noopener" aria-label={`social link to ${link}`}>
         <Icon icon={name} prefix={prefix} />

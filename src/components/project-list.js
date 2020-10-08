@@ -73,7 +73,7 @@ const ProjectList = ({ projects }) => {
             )}
             {demoLink && (
               <a href={demoLink} target="_blank" rel="noopener" title="Demo Link" aria-label={demoLinkLabel}>
-                <Icon icon="external-link-alt" />
+                <Icon icon="globe"/>
               </a>
             )}
           </StyledLinkContainer>

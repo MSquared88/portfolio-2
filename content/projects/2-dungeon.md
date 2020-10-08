@@ -3,9 +3,14 @@ featured: true
 date: '2019-12-22'
 title: 'Dungeon of the Haunted Forest'
 cover_image: './images/dungeon.png'
-repo_link: 'https://github.com/Knochenmark/minesweeper'
-demo_link: 'https://knochenmark.github.io/recipebox/'
+repo_link: 'https://github.com/MSquared88/MUD-FE'
+demo_link: 'https://mud-fe.vercel.app/'
 techs: ['Python/Django', 'React']
 ---
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+A MUD style adventure game.
+<br/> 
+<br/> 
+ Designed Front-End UI using React. 
+<br/> 
+ Implemented algorithm to dynamically render map with JavaScript.
