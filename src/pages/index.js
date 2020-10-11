@@ -28,7 +28,7 @@ const Index = ({ data }) => {
       <Hero data={heroData} />
       {/* <Facts/> */}
       <FeaturedProjects featured={data.featuredProjects.nodes} />
-      <CardGrid cards={data.cards.frontmatter.cards} description={data.cards.html} title="Our Features" id="features" />
+      <CardGrid cards={data.cards.frontmatter.cards} description={data.cards.html} title="Technologies" id="features" />
       <About data={data.about} />
       {/* <RecentPosts data={data.blog.edges} /> */}
       <Contact data={data.contact} />

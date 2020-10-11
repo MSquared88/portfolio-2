@@ -22,14 +22,14 @@ export const blogMenuLinks = [
     link: '/',
     icon: 'code',
   },
-  {
-    name: 'Blog',
-    link: '/blog',
-    icon: 'feather-alt',
-  },
-  {
-    name: 'Tags',
-    link: '/tags',
-    icon: 'tags',
-  },
+  // {
+  //   name: 'Blog',
+  //   link: '/blog',
+  //   icon: 'feather-alt',
+  // },
+  // {
+  //   name: 'Tags',
+  //   link: '/tags',
+  //   icon: 'tags',
+  // },
 ];

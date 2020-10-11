@@ -80,7 +80,7 @@ const Header = ({ menuLinks }) => (
   <StyledHeader>
     <StyledContainer>
       <StyledHomeLink title="logo" to="/">
-        <StyledLogo />
+        {/* <StyledLogo /> */}
       </StyledHomeLink>
       <StyledNav>
         {menuLinks.map((link, index) => (

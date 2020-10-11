@@ -61,7 +61,7 @@ const CardGrid = ({ cards, description, title, id = null }) => {
         <Icon icon={icon} prefix={prefix} />
         <StyledCardLabel>{label}</StyledCardLabel>
         <StyledDivider></StyledDivider>
-        <StyledFeatureDescription>{description}</StyledFeatureDescription>
+        <StyledFeatureDescription></StyledFeatureDescription>
       </StyledFeatureCard>
     );
   });
