@@ -87,7 +87,7 @@ const FeaturedProjects = ({ featured }) => {
           aria-label={demoLink ? demoLinkLabel : repoLink ? repoLinkLabel : `featured project ${title}`}
           href={demoLink ? demoLink : repoLink ? repoLink : '#'}
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
         >
           {coverImage && (
             <StyledImageContainer hasHover>
@@ -103,12 +103,12 @@ const FeaturedProjects = ({ featured }) => {
           <TechList techs={project.frontmatter.techs} />
           <StyledLinkContainer>
             {repoLink && (
-              <a href={repoLink} target="_blank" rel="noopener" title="Repository Link" aria-label={repoLinkLabel}>
+              <a href={repoLink} target="_blank" rel="noreferrer" title="Repository Link" aria-label={repoLinkLabel}>
                 <Icon icon="github" prefix="fab" />
               </a>
             )}
             {demoLink && (
-              <a href={demoLink} target="_blank" rel="noopener" title="Demo Link" aria-label={demoLinkLabel}>
+              <a href={demoLink} target="_blank" rel="noreferrer" title="Demo Link" aria-label={demoLinkLabel}>
                 <Icon icon="external-link-alt" />
               </a>
             )}
