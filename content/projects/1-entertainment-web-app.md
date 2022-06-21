@@ -11,4 +11,4 @@ techs: ['TypeScript', 'Remix', 'tailwindcss']
 This is a solution to the Entertainment web app challenge on Frontend Mentor.
 <br/>
 <br/>
-It utilizes Remix for a server side redered app, and tailwindcss for styling.
+It utilizes Remix for a server side rendered app, and tailwindcss for styling.
